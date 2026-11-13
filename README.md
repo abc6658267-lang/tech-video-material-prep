@@ -6,5 +6,6 @@
 
 - `item1_props/` — 混元 3D 道具 GLB（灯泡、人脑、显示器）
 - `specs/` — 各任务说明原文
+- `book-review-template/` — 书评系列视频模板（开场 + 翻篇 + 正文合成脚本、翻篇书封、例子配置）
 
 大文件使用 Git LFS（`*.glb`）。

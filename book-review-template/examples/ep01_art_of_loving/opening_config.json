@@ -1,0 +1,33 @@
+{
+  "title": "爱的艺术",
+  "title_en": "The Art of Loving",
+  "author": "弗洛姆",
+  "cover": "cover.jpg",
+  "hook_clip": "hook.mp4",
+  "hook_aspect": 2.0,
+  "hook_lines": [
+    [
+      "爱不是找一个能依靠的人",
+      "Love isn't finding someone to lean on,"
+    ],
+    [
+      "而是成为一个完整的自己",
+      "it's becoming a whole person yourself."
+    ]
+  ],
+  "keyword": "独立",
+  "flip_dir": "flip_covers",
+  "flip_count": 7,
+  "flip_interval": 0.11,
+  "intro_line": "今天分享的是，{author}的《{title}》",
+  "voice": "Chinese (Mandarin)_Gentleman",
+  "speed": 1.05,
+  "size": [
+    1080,
+    1440
+  ],
+  "lufs": -11,
+  "output": "opening.mp4",
+  "landed_brush": false,
+  "flip_fullbleed": true
+}
