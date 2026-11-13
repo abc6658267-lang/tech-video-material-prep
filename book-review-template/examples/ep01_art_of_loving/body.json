@@ -1,0 +1,23 @@
+{
+  "title": "爱的艺术",
+  "author": "弗洛姆",
+  "voice": "body_final.wav",
+  "subs": "subs.json",
+  "lead": 0.35,
+  "tail": 1.2,
+  "shots": [
+    {"file": "img_01_waiting.png", "start": 0.0, "end": 2.8, "crop": [0, 0.143, 1, 0.857],
+     "move": [[0.40, 0.52, 1.0], [0.36, 0.56, 1.10]], "dust": 0.15, "rain": {"n": 80, "a": 0.45}},
+    {"file": "img_02_morning_alone.png", "start": 2.8, "end": 5.4, "crop": [0, 0.06, 1, 1], "xfade": 0.4,
+     "move": [[0.36, 0.50, 1.10], [0.50, 0.50, 1.10]], "dust": 0.85},
+    {"file": "img_03_walking_together.png", "start": 5.4, "end": 8.3,
+     "move": [[0.52, 0.48, 1.14], [0.50, 0.44, 1.02]], "dust": 0.4, "flare": {"x": 0.56, "y": 0.29, "a": 0.9}},
+    {"file": "img_04_two_trees.png", "start": 8.3, "end": 11.4,
+     "move": [[0.50, 0.62, 1.12], [0.50, 0.42, 1.12]], "dust": 0.45, "petals": {"n": 20},
+     "lights": {"cx": 0.5, "cy": 0.36, "sep": 0.07, "delay": 0.6}},
+    {"file": "img_05_own_worlds.png", "start": 11.4, "end": 99, "crop": [0, 0.25, 1, 1],
+     "move": [[0.56, 0.55, 1.0], [0.58, 0.52, 1.07]], "dust": 0.7}
+  ],
+  "leaks": [5.4],
+  "output": "ep01_body_img.mp4"
+}

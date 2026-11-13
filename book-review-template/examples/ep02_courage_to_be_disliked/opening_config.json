@@ -1,0 +1,24 @@
+{
+  "title": "被讨厌的勇气",
+  "title_en": "The Courage to Be Disliked",
+  "author": "岸见一郎 古贺史健",
+  "cover": "cover.jpg",
+  "hook_clip": "hook.mp4",
+  "hook_aspect": 2.0,
+  "hook_lines": [
+    ["你越想让所有人满意", "The harder you try to please everyone,"],
+    ["就越活得不像自己", "the less you feel like yourself."]
+  ],
+  "keyword": "自由",
+  "flip_dir": "flip_covers",
+  "flip_count": 7,
+  "flip_interval": 0.11,
+  "flip_fullbleed": true,
+  "landed_brush": false,
+  "intro_line": "今天分享的是，岸见一郎的《被讨厌的勇气》",
+  "voice": "Chinese (Mandarin)_Gentleman",
+  "speed": 1.05,
+  "size": [1080, 1440],
+  "lufs": -11,
+  "output": "opening.mp4"
+}
